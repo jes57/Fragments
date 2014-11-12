@@ -4,5 +4,7 @@
     <string name="app_name">Fragments</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="portrate_mode_textview">In portrait fragment</string>
+    <string name="landscape_mode_textview">In landscape mode</string>
 
 </resources>
